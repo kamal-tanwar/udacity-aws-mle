@@ -1,0 +1,6 @@
+[submodule "project"]
+	path = project
+	url = https://github.com/udacity/cd0385-project-starter.git
+[submodule "exercises"]
+	path = exercises
+	url = https://github.com/udacity/cd0385-exercise-files.git
